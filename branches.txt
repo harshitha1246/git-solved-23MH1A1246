@@ -1,0 +1,15 @@
+  conflict-demo
+  conflict-simulator
+  dev
+  feature/another-feature
+  feature/new-feature
+* main
+  merge-test
+  remotes/instructor/conflict-simulator
+  remotes/instructor/dev
+  remotes/instructor/main
+  remotes/origin/conflict-simulator
+  remotes/origin/dev
+  remotes/origin/feature/another-feature
+  remotes/origin/feature/new-feature
+  remotes/origin/main
